@@ -6,7 +6,7 @@ We try to keep each part of the tutorial as simple as possible.
 
 ## Quick Start
 
-* Installing Rust
+* [Installing Rust](./tutorial/installing_rust.md)
 * The First Project
 * Explanation Of The First Program
 
