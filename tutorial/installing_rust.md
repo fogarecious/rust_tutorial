@@ -19,6 +19,6 @@ It will display something like this:
 cargo 1.74.0 (ecb9851af 2023-10-18)
 ```
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [The First Project](./the_first_project.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
