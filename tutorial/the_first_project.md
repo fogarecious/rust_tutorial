@@ -48,6 +48,6 @@ We can find the result executables in folder `target`, which is in folder `my_pr
 If we build the project with `--release` flag, we can find the executable in folder `target/release`.
 Otherwise, we can find it in folder `target/debug`.
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Explanation Of The First Program](./explanation_of_the_first_program.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
