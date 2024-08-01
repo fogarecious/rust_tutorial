@@ -21,6 +21,6 @@ So, we can also write the same code in the following way.
 fn main(){println!("Hello, world!");}
 ```
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Adding Comments](./adding_comments.md)
 
 :blue_book: Back: [Table of contents](./../README.md)

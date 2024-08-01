@@ -12,7 +12,7 @@ We try to keep each part of the tutorial as simple as possible.
 
 ## Basic
 
-* Adding Comments
+* [Adding Comments](./tutorial/adding_comments.md)
 * Printing On Screen
 * Variables
   * Declaring Variables
