@@ -13,7 +13,7 @@ We try to keep each part of the tutorial as simple as possible.
 ## Basic
 
 * [Adding Comments](./tutorial/adding_comments.md)
-* Printing On Screen
+* [Printing On Screen](./tutorial/printing_on_screen.md)
 * Variables
   * Declaring Variables
   * Specifying Types Of Variables

@@ -23,6 +23,6 @@ fn main() { // The code starts here.
 } // The code ends here.
 ```
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Printing On Screen](./printing_on_screen.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
