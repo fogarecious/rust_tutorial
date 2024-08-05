@@ -15,7 +15,7 @@ We try to keep each part of the tutorial as simple as possible.
 * [Adding Comments](./tutorial/adding_comments.md)
 * [Printing On Screen](./tutorial/printing_on_screen.md)
 * Variables
-  * Declaring Variables
+  * [Declaring Variables](./tutorial/declaring_variables.md)
   * Specifying Types Of Variables
   * Updating Variables
   * Shadowing

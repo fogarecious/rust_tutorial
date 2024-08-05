@@ -101,7 +101,6 @@ Output:
 14 x 9 = 126
 ```
 
-<!-- :arrow_right:  Next:  -->
 Texts `"`, `{`, `}` and `\` are special.
 We can print them in the following way.
 
@@ -117,5 +116,6 @@ Output:
 "{}\
 ```
 
+:arrow_right:  Next: [Declaring Variables](./declaring_variables.md)
 
 :blue_book: Back: [Table of contents](./../README.md)
