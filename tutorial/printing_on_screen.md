@@ -102,5 +102,20 @@ Output:
 ```
 
 <!-- :arrow_right:  Next:  -->
+Texts `"`, `{`, `}` and `\` are special.
+We can print them in the following way.
+
+```rust
+fn main() {
+    println!("\"{{}}\\");
+}
+```
+
+Output:
+
+```text
+"{}\
+```
+
 
 :blue_book: Back: [Table of contents](./../README.md)
