@@ -13,7 +13,10 @@ We try to keep each part of the tutorial as simple as possible.
 ## Basic
 
 * [Adding Comments](./tutorial/adding_comments.md)
-* [Printing On Screen](./tutorial/printing_on_screen.md)
+* Printing On Screen
+  * [Printing Strings](./tutorial/printing_strings.md)
+  * [Printing Special Strings](./tutorial/printing_special_strings.md)
+  * [Printing Numbers](./tutorial/printing_numbers.md)
 * Variables
   * [Declaring Variables](./tutorial/declaring_variables.md)
   * Specifying Types Of Variables
