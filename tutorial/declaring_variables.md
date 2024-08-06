@@ -32,7 +32,7 @@ Output:
 The string is "Hello".
 ```
 
-We can compute the result of an expression before we print it out.
+We can compute and store a result of an expression before we print it out.
 
 ```rust
 fn main() {
