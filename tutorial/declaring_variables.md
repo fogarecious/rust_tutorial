@@ -47,7 +47,6 @@ Output:
 n = 212
 ```
 
-<!-- :arrow_right:  Next:  -->
 If we declare a variable but not use it later as follows,
 
 ```rust
@@ -76,5 +75,6 @@ fn main() {
 }
 ```
 
+:arrow_right:  Next: [Specifying Types Of Variables](./specifying_types_of_variables.md)
 
 :blue_book: Back: [Table of contents](./../README.md)

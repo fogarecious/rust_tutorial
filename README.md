@@ -19,7 +19,7 @@ We try to keep each part of the tutorial as simple as possible.
   * [Printing Numbers](./tutorial/printing_numbers.md)
 * Variables
   * [Declaring Variables](./tutorial/declaring_variables.md)
-  * Specifying Types Of Variables
+  * [Specifying Types Of Variables](./tutorial/specifying_types_of_variables.md)
   * Updating Variables
   * Shadowing
 * Variable Types
