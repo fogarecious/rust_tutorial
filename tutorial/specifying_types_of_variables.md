@@ -37,6 +37,6 @@ Now, there is no compiler errors.
 
 We will explain more about types in detail later.
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Updating Variables](./updating_variables.md)
 
 :blue_book: Back: [Table of contents](./../README.md)

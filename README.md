@@ -20,7 +20,7 @@ We try to keep each part of the tutorial as simple as possible.
 * Variables
   * [Declaring Variables](./tutorial/declaring_variables.md)
   * [Specifying Types Of Variables](./tutorial/specifying_types_of_variables.md)
-  * Updating Variables
+  * [Updating Variables](./tutorial/updating_variables.md)
   * Shadowing
 * Variable Types
   * Integers
