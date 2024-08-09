@@ -42,6 +42,6 @@ Output:
 2
 ```
 
-<!-- :arrow_right:  Next:  -->
+:arrow_right:  Next: [Shadowing](./shadowing.md)
 
 :blue_book: Back: [Table of contents](./../README.md)

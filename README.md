@@ -21,7 +21,7 @@ We try to keep each part of the tutorial as simple as possible.
   * [Declaring Variables](./tutorial/declaring_variables.md)
   * [Specifying Types Of Variables](./tutorial/specifying_types_of_variables.md)
   * [Updating Variables](./tutorial/updating_variables.md)
-  * Shadowing
+  * [Shadowing](./tutorial/shadowing.md)
 * Variable Types
   * Integers
   * Floating-Point Numbers
